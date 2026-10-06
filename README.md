@@ -43,7 +43,7 @@ Then open http://127.0.0.1:8000/docs
 ## Roadmap
 
 - [x] Basic API with health check and product endpoints
-- [ ] Persistent storage with SQLite
+- [x] Persistent storage with SQLite
 - [ ] Containerize with Docker and deploy to home server
 - [ ] Receipt photo → product data via the Claude API
 - [ ] Expiry notifications
